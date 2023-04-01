@@ -1,3 +1,4 @@
+#USACO gold Mar'23 problem p1
 
 def read_inputs(inputs):
     first_line = inputs[0]
