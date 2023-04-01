@@ -1,4 +1,5 @@
-#USACO gold Mar'23 problem p1
+# USACO gold Mar'23 problem p1
+# use DFS to find a feasible solution
 
 def read_inputs(inputs):
     first_line = inputs[0]
