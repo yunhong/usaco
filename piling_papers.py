@@ -1,3 +1,5 @@
+# http://www.usaco.org/index.php?page=viewproblem2&cpid=1307
+# usaco gold Feb'23 p3, 
 #input, N, A, B
 # a1, a2, ..., aN
 # Q questions
