@@ -1,3 +1,5 @@
+# http://www.usaco.org/index.php?page=viewproblem2&cpid=818
+# usaco platium Feb'18 Cow Gymnasts
 
 import sys
 N = int(sys.argv[1])
